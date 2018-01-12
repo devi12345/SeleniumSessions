@@ -3,8 +3,8 @@ package NOTES;
 public class GITHub {
 	/*
 	 * https://github.com/
-	 * username:devi12345
-	 * password: selenium12345
+	 * username:****
+	 * password: *****
 	 * 
 	 * Create a Public or Private Repository
 	 * 
