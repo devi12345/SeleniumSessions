@@ -51,8 +51,8 @@ public class POMNotes {
 	 * By deafault Jenkins runs on 8080 port which is local machine.
 	 * 
 	 * Go to Browser - localhost:8080, install Jenkin
-	 * username: devi
-	 * pwd: devi123
+	 * username: *****
+	 * pwd: ********
 	 * 
 	 * Goals and Options:
 	 * clean install
